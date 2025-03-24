@@ -1,0 +1,16 @@
+train: C:/Users/jmdgo/Downloads/VisDrone2019-DET-train/VisDrone2019-DET-train/images
+val: C:/Users/jmdgo/Downloads/VisDrone2019-DET-val/VisDrone2019-DET-val/images
+test: C:/Users/jmdgo/Downloads/VisDrone2019-DET-test-dev/images
+
+nc: 10
+names:
+  - pedestrian
+  - people
+  - bicycle
+  - car
+  - van
+  - truck
+  - tricycle
+  - awning-tricycle
+  - bus
+  - motor
